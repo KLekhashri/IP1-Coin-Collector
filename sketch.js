@@ -75,7 +75,7 @@ function startGame() {
 
   gameChar_world_x = gameChar_x - scrollPos;
 
-  flagpole = { x_pos: 2000, isReached: false };
+  flagpole = { x_pos: 1100, isReached: false };
 
   canyons = [
     { x_pos: 800, width: 100 },
