@@ -4,7 +4,7 @@ Welcome to the **Coin Collector Adventure Game**! This game lets you guide a cha
 
 ## Demo  
 
-Experience the adventure here: [Coin Collector Adventure Game](https://https://ip1-coin-collector.vercel.app/)
+Experience the adventure here: [Coin Collector Adventure Game](https://ip1-coin-collector.vercel.app/)
 
 ## Description  
 
